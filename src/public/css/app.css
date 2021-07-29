@@ -1,2 +1,15 @@
 h1 {
   color: orange; }
+
+.card-body-1 {
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  border-radius: 20px; }
+
+.user-avatar {
+  height: 28px;
+  width: 28px;
+  border-radius: 50%; }
